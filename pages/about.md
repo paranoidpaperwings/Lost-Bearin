@@ -1,5 +1,5 @@
 ---
-title: About
+title: About the Lost Bearings Skate Park Collection
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
@@ -16,12 +16,10 @@ credits: true
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+- a CSV of collection metadata for the Lost Bearings Skate Park Collection
+- a folder of JPG images, PDF documents, and a video
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+This digital exhibit features five objects belonging to the Lost Bearings Skate Park, all of which help to display the legacy and activities of the Lost Bearings Skate Team at the Lost Bearings Skate Park, the Jesse Perez Skate School, and the Lost Bearings music venue. 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
